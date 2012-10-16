@@ -1,0 +1,5 @@
+{
+  "name": "sass-bootstrap",
+  "version": "1.0.0",
+  "main": "./lib/bootstrap.scss",
+}
