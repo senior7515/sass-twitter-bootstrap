@@ -1,3 +1,6 @@
+This is a clone that I made to work for yeoman (see yeoman.io) that deletes clutter. I just want to use the sass version of this.
+
+
 [Twitter Bootstrap](http://twitter.github.com/bootstrap) [![Build Status](https://secure.travis-ci.org/twitter/bootstrap.png)](http://travis-ci.org/twitter/bootstrap)
 =================
 
